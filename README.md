@@ -16,3 +16,12 @@
 - Sept 25, 2026. Milan Curcic. State of AI for Research. [Link to slides]()
 
 ### Spring 2026
+
+- Milan Curcic. What every scientist should know about AI in 2026. 
+- Brian McNoldy. Plots and Pixels: Three Decades of Building and Sharing Science Products on the Web
+- Philippe Miron. Retrieval Augmented Generation
+- Susan Harrison. Python abstractions
+- Marybeth Arcodia. Intro to PyTorch
+- Michael Fischer. Intro to Scikit-learn
+- Shane Elipot. CloudDrift: Lagrangian analysis for Python
+- Eduardo Siman. How to start a startup
