@@ -1,5 +1,13 @@
 # Lunch Bytes at Rosenstiel
 
+## Organizers
+
+- Marybeth Arcodia (ATM & IDSC)
+- Milan Curcic (OCE & IDSC)
+- Michael Fischer (ATM & IDSC)
+- Tim Norris (UM Libraries & IDSC)
+- Juan Carlos Villaseñor-Derbez (EVR & IDSC)
+
 ## Sessions
 
 ### Fall 2026
