@@ -20,8 +20,8 @@ MSC 343, Fridays at 12 pm.
 
 ### Fall 2026
 
-- Oct 16, 2026. Juan Carlos Villaseñor-Derbez. My (shallow) experience with agentic coding. [Abstract and materials](resources/Fall_2026/LB44) [Link to slides](https://jcvdav.github.io/test/presentations/12_lunch_bytes_agentic/agentic_coding.html)
-- Sept 25, 2026. Milan Curcic. State of AI for Research. [Abstract and materials](resources/Fall_2026/LB43) [Link to slides]()
+- Oct 16, 2026. Juan Carlos Villaseñor-Derbez. My (shallow) experience with agentic coding. [Abstract and materials](resources/Fall_2026/LB43) [Link to slides](https://jcvdav.github.io/test/presentations/12_lunch_bytes_agentic/agentic_coding.html)
+- Sept 25, 2026. Milan Curcic. State of AI for Research. [Abstract and materials](resources/Fall_2026/LB42) [Link to slides]()
 
 ### Spring 2026
 

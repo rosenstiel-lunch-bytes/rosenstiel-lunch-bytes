@@ -1,9 +1,11 @@
-**Speaker & Moderator**: Milan Curcic
+**Speaker**: Juan Carlos Villaseñor-Derbez
 
-**Title**: State of AI for Research
+**Title**: My (shallow) experience with agentic coding
 
-**Abstract**: AI tools continue to advance rapidly and new uses and better approaches emerge weekly. Since we haven't talked about this as a community since before the summer, it's a good time to revisit the current state of AI tools available and how best to use them; specifically, LLMs, agent harnesses, agent tools, user interfaces, and even always-on personal agents. After a short review we'll open the floor to group discussion. What do you use, how do you use it, what do you use it for, how to do it safely and responsibly, and how to get started if you haven't yet? Come teach us what you know, and learn from others.
+**Abstract**: There are many ways in which we can leverage LLMs to help us in research. LLMs are quite good at writing code because code is largely unambiguous, making their application in research quite straightforward. However, there are still many pitfalls along the way. This session will show an evolution of my agentic coding workflow in Claude Code (though I think insights extend to other platforms). I will present my best practices for a harness, which include a series of tips and tricks that help me stay in the driver's seat.
 
-**When**: Friday, September 25, 2026, 12 noon.
+**When**: Friday, October 16, 2026, 12:00 (Noon).
 
 **Where**: MSC 343
+
+[Slides](https://jcvdav.github.io/test/presentations/12_lunch_bytes_agentic/agentic_coding.html)
