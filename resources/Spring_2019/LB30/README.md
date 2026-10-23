@@ -1,6 +1,6 @@
 **Speaker**: Kelsey Malloy (RSMAS/UM)
 
-**Title**: Switching to Python: Computation & Stat Basics for Matlab and NCL Converts
+**Title**: *Switching to Python: Computation & Stat Basics for Matlab and NCL Converts*
 
 **Abstract**: 
 If you are a beginner or Matlab/NCL user, the “Python-mania” is worth your attention. 

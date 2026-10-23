@@ -1,6 +1,6 @@
 Speaker: Falko Judt (RSMAS)
 
-Title: Data Analysis and High Quality Graphics with NCL
+Title: *Data Analysis and High Quality Graphics with NCL*
 
 NCL is an interpreted language specifically designed for scientific data 
 analysis and visualization (emphasis on Earth science applications). It 

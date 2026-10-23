@@ -1,6 +1,6 @@
 **Speaker**: Brian McNoldy (RSMAS/UM)
 
-**Title**: Sharing Science with Scientists and the Public
+**Title**: *Sharing Science with Scientists and the Public*
 
 **Abstract**: Brian has a history with creating websites 
 that goes back 24 years (remember when graphical web browsers didn't exist?), 

@@ -1,6 +1,6 @@
 **Speaker**: Brian Mapes (RSMAS/UM)
 
-**Title**: Load, don’t code: Online plotting and analysis using NASA Giovanni, KNMI Climate Explorer, NOAA PSD pages, or LDEO Ingrid 
+**Title**: *Load, don’t code: Online plotting and analysis using NASA Giovanni, KNMI Climate Explorer, NOAA PSD pages, or LDEO Ingrid*
 
 **Abstract**: Sometimes a data display or even analysis can be done 
 quickly in a browser, your interface to the machine where the data 

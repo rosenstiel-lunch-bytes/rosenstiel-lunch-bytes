@@ -1,6 +1,6 @@
 **Speaker**: Tim Norris (UM Libraries & CCS)
 
-**Title**: Intro to parallel computing with Python: Dask and Concurrent Futures
+**Title**: *Intro to parallel computing with Python: Dask and Concurrent Futures*
 
 **When**: Friday, September 21, 12 pm.
 

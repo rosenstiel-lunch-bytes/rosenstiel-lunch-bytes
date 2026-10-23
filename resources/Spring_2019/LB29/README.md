@@ -1,6 +1,6 @@
 **Speaker**: Kayla Besong (RSMAS/UM)
 
-**Title**: Xarray: An Introduction to Python’s Labeled Array Package
+**Title**: *Xarray: An Introduction to Python’s Labeled Array Package*
 
 **Abstract**: Xarray is a recently developed Python package 
 that introduces dimension labels and attributes for Numpy arrays. 

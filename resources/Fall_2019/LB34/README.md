@@ -1,6 +1,6 @@
 **Speaker**: Manish Devana (OCE)
 
-**Title**: Overleaf Tutorial: An online LaTeX editor for writing your next paper
+**Title**: *Overleaf Tutorial: An online LaTeX editor for writing your next paper*
 
 **Abstract**: 
 We will explore the online LaTeX editor Overleaf and how to use it for academic writing. 
@@ -15,3 +15,5 @@ Journal Direct Submissions, and sharing/collaborating on projects directly in th
 **When**: Friday, November 22, 12 pm.
 
 **Where**: MSC 343 (classroom closest to the elevator)
+
+[Tutorial repo](https://github.com/msdevana/Lunch-Bytes-Overleaf-Tutorial)

@@ -1,6 +1,6 @@
 **Speaker**: Kayla Besong (ATM)
 
-**Title**: Breaking up with Basemap: Upgrading to Cartopy for basic mapping in Python
+**Title**: *Breaking up with Basemap: Upgrading to Cartopy for basic mapping in Python*
 
 **Abstract**: 
 Python's classic mapping library, Matplotlib's Basemap, 
