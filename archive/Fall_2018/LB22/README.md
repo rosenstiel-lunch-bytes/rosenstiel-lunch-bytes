@@ -1,5 +1,5 @@
-[Slides](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB22/NeuralNetworks2018.pdf) |
-[Notebook](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB22/NeuralNetDemo.ipynb)
+[Slides](NeuralNetworks2018.pdf) |
+[Notebook](NeuralNetDemo.ipynb)
 
 **Speaker**: Matt Grossi (RSMAS/UM)
 

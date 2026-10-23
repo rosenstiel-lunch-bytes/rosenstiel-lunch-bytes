@@ -10,19 +10,19 @@ When: Every Wednesday, 12-1 pm
 
 Schedule:
 
-* **October 14**: *Natalie Perlin (RSMAS/CCS) - [Introduction to UM Center for Computational Science (CCS) and Pegasus supercomputer](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015/LB01)*
+* **October 14**: *Natalie Perlin (RSMAS/CCS) - [Introduction to UM Center for Computational Science (CCS) and Pegasus supercomputer](LB01)*
 
-* **October 21**: *Dian Putrasahan (RSMAS) - [Handling large data sets using Climate Data Operators (CDO)](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015/LB02)*
+* **October 21**: *Dian Putrasahan (RSMAS) - [Handling large data sets using Climate Data Operators (CDO)](LB02)*
 
-* **October 28**: *Leo Siqueira (RSMAS) - [Python bytes on spatial-temporal data: Basics and perspectives](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015/LB03)*
+* **October 28**: *Leo Siqueira (RSMAS) - [Python bytes on spatial-temporal data: Basics and perspectives](LB03)*
 
 * **November 4**: *Milan Curcic (RSMAS) - Introduction to version control using git and Github*
 
-* **November 11**: *Johnna Infanti (RSMAS) - [Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015/LB05)*
+* **November 11**: *Johnna Infanti (RSMAS) - [Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)](LB05)*
 
 * **November 18**: *Macarena Ortiz and Juan Pinales (RSMAS) - 
-[Machine learning methods for satellite image processing: Neural Networks and Support Vector Machines](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015/LB06)*
+[Machine learning methods for satellite image processing: Neural Networks and Support Vector Machines](LB06)*
 
 * **November 25**: No seminar (Thanksgiving break)
 
-* **December 2**: *Falko Judt (RSMAS) - [Data analysis and high quality graphics with NCAR Command Language (NCL)](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2015/LB07)*
+* **December 2**: *Falko Judt (RSMAS) - [Data analysis and high quality graphics with NCAR Command Language (NCL)](LB07)*

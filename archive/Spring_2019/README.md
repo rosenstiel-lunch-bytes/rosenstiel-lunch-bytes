@@ -9,12 +9,12 @@ MSC 343, Fridays at 12 pm.
 
 ## Schedule
 
-* **February 22**: Milan Curcic (RSMAS/UM) -- [Introduction to cloud computing](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB25)
-* **March 22**: Yu Gao (RSMAS/UM) -- [Data analysis with Pandas Dataframe: Live coding for beginners](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB26)
-* **April 5**: Joseph Anderson (RSMAS/UM) -- [Neural Networks and TensorFlow: A Gentle Introduction](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB27)
-* **April 12**: David Grossman (CG/UM) -- [Parallel Computing in Python with Dask on Pegasus](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB28)
-* **April 19**: Kayla Besong (RSMAS/UM) -- [Xarray: An Introduction to Python's Labeled Array Package](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB29)
-* **May 3**: Kelsey Malloy (RSMAS/UM) -- [Switching to Python: Computation & Stat Basics for Matlab and NCL Converts](https://github.com/milancurcic/lunch-bytes/tree/master/Spring_2019/LB30)
+* **February 22**: Milan Curcic (RSMAS/UM) -- [Introduction to cloud computing](LB25)
+* **March 22**: Yu Gao (RSMAS/UM) -- [Data analysis with Pandas Dataframe: Live coding for beginners](LB26)
+* **April 5**: Joseph Anderson (RSMAS/UM) -- [Neural Networks and TensorFlow: A Gentle Introduction](LB27)
+* **April 12**: David Grossman (CG/UM) -- [Parallel Computing in Python with Dask on Pegasus](LB28)
+* **April 19**: Kayla Besong (RSMAS/UM) -- [Xarray: An Introduction to Python's Labeled Array Package](LB29)
+* **May 3**: Kelsey Malloy (RSMAS/UM) -- [Switching to Python: Computation & Stat Basics for Matlab and NCL Converts](LB30)
 
 ## Presenter Guidelines
 
@@ -32,6 +32,6 @@ Please create a folder for your seminar as LBXX and upload any contents (e.g. sl
 
 ## Past seminars
 
-* [Fall 2015](Fall_2015)
-* [Spring 2016](Spring_2016)
-* [Fall 2018](Fall_2018)
+* [Fall 2015](../Fall_2015)
+* [Spring 2016](../Spring_2016)
+* [Fall 2018](../Fall_2018)

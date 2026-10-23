@@ -18,7 +18,7 @@ main topics:
 3. Tricks and tips for speeding up your parallel algorithm.
 
 Please have a version of Anaconda installed and take a look at 
-[Tim Norris’s introduction to Dask](https://github.com/milancurcic/lunch-bytes/tree/master/Fall_2018/LB18). 
+[Tim Norris’s introduction to Dask](../../Fall_2018/LB18). 
 
 **When**: Friday, April 12, 12 pm.
 
