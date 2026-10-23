@@ -29,7 +29,7 @@ MSC 343, Fridays at 12 pm.
 - Feb 13, 2026. Brian McNoldy. Plots and Pixels: Three Decades of Building and Sharing Science Products on the Web. [Abstract and materials](resources/Spring_2026/LB36)
 - Philippe Miron. Retrieval Augmented Generation
 - Susan Harrison. Python abstractions
-- Marybeth Arcodia. Intro to PyTorch
+- Apr 3, 2026. Marybeth Arcodia. PyTorch 101: A Practical Introduction for Earth Scientists. [Abstract and materials](resources/Spring_2026/LB39)
 - Apr 10, 2026. Michael Fischer. The vibes are immaculate, but is the research? A reflection on vibe coding for scientists. [Abstract and materials](resources/Spring_2026/LB40)
 - Apr 17, 2026. Shane Elipot. CloudDrift: Lagrangian analysis for Python. [Abstract and materials](resources/Spring_2026/LB41)
 - Eduardo Siman. How to start a startup
