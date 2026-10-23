@@ -4,6 +4,9 @@ Lunch Bytes is a computing seminar series that provides an informal forum for st
 researchers, and faculty at the Rosenstiel School to discuss and exchange knowledge on
 various computing topics, tools, and programming languages.
 
+* TOC
+{:toc}
+
 ## Where and when
 
 MSC 343, Fridays at 12 pm.
