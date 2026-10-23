@@ -26,7 +26,7 @@ MSC 343, Fridays at 12 pm.
 ### Spring 2026
 
 - Jan 16, 2026. Milan Curcic. What every scientist should know about AI in 2026. [Abstract and materials](resources/Spring_2026/LB35)
-- Brian McNoldy. Plots and Pixels: Three Decades of Building and Sharing Science Products on the Web
+- Feb 13, 2026. Brian McNoldy. Plots and Pixels: Three Decades of Building and Sharing Science Products on the Web. [Abstract and materials](resources/Spring_2026/LB36)
 - Philippe Miron. Retrieval Augmented Generation
 - Susan Harrison. Python abstractions
 - Marybeth Arcodia. Intro to PyTorch
