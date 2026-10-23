@@ -7,11 +7,11 @@ various computing topics, tools, and programming languages.
 * TOC
 {:toc}
 
-## Where and when
+**Where and when:** MSC 343, Fridays at 12 pm.
 
-MSC 343, Fridays at 12 pm.
+**2026 programming brought to you by:** Marybeth Arcodia (ATM & IDSC), Milan Curcic (OCE & IDSC), Michael Fischer (ATM & IDSC), Tim Norris (UM Libraries & IDSC), Juan Carlos Villaseñor-Derbez (EVR & IDSC)
 
-### This Semester (Fall 2026)
+## This Semester (Fall 2026)
 
 - Nov 20, 2026. TBD
 - Nov 13, 2026. TBD
@@ -20,20 +20,12 @@ MSC 343, Fridays at 12 pm.
 - Oct 16, 2026. Juan Carlos Villaseñor-Derbez. *My (shallow) experience with agentic coding*. [Abstract and materials](resources/Fall_2026/LB43)
 - Sept 25, 2026. Milan Curcic. *State of AI for Research*. [Abstract and materials](resources/Fall_2026/LB42)
 
-### 2026 Organizers
-
-- Marybeth Arcodia (ATM & IDSC)
-- Milan Curcic (OCE & IDSC)
-- Michael Fischer (ATM & IDSC)
-- Tim Norris (UM Libraries & IDSC)
-- Juan Carlos Villaseñor-Derbez (EVR & IDSC)
-
-## Contributing
+## Want To Present?
 
 To share materials for a seminar, add a folder under `resources/<Season>/` (e.g. `resources/Fall_2026/my-talk`) with a README
 (speaker, title, abstract, when, where) plus your slides (PDFs can be read on GitHub), code, or environment files, and link to it from the session entry above.
 
-## Presenter guidelines
+### Presenter guidelines
 
 * Any format welcome! Slides, live coding, whiteboard, or just your voice.
 * 45 minutes or shorter.
