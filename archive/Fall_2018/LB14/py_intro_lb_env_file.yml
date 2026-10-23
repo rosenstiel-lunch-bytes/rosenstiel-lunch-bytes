@@ -1,0 +1,24 @@
+name: py_intro_lb_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - notebook
+  - ipywidgets
+  - bokeh
+  - psutil
+  - xarray
+  - dask
+  - distributed
+  - matplotlib
+  - cartopy
+  - netcdf4
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - toolz
+  - bottleneck
+  - cyordereddict
+  - pip:
+    - git+https://github.com/dask/dask-jobqueue.git
