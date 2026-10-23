@@ -6,7 +6,7 @@ various computing topics, tools, and programming languages.
 
 ## Where and when
 
-<!-- TODO: confirm current room and time (the 2015-2019 series met at MSC 343, Fridays at 12 pm) -->
+MSC 343, Fridays at 12 pm.
 
 ## Organizers
 
