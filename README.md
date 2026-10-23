@@ -31,7 +31,7 @@ MSC 343, Fridays at 12 pm.
 - Susan Harrison. Python abstractions
 - Marybeth Arcodia. Intro to PyTorch
 - Michael Fischer. Intro to Scikit-learn
-- Shane Elipot. CloudDrift: Lagrangian analysis for Python
+- Apr 17, 2026. Shane Elipot. CloudDrift: Lagrangian analysis for Python. [Abstract and materials](resources/Spring_2026/LB41)
 - Eduardo Siman. How to start a startup
 
 ### Fall 2019
