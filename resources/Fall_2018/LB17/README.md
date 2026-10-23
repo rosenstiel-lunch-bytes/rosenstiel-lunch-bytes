@@ -1,6 +1,6 @@
 **Speaker**: Natalie Perlin (RSMAS/UM)
 
-**Title**: *Introduction to the UM/Center for Computational Science resources and Pegasus supercomputer*
+**Title**: Introduction to the UM/Center for Computational Science resources and Pegasus supercomputer
 
 **Abstract**: This week, Natalie will give us an overview of the UM/Center 
 for Computational Science resources, with a focus on Pegasus, 

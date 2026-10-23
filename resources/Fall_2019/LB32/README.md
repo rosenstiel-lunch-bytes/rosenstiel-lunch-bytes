@@ -1,6 +1,6 @@
 **Speaker**: Tiago Billo (OCE)
 
-**Title**: *Gain control over your plots: Exploring the Matplotlib potential*
+**Title**: Gain control over your plots: Exploring the Matplotlib potential
 
 **Abstract**: 
 As scientists, our job is to convince other scientists, politicians, 

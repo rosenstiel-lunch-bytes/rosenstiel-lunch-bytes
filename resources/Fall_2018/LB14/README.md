@@ -1,6 +1,6 @@
 Speaker: Ray Bell (RSMAS)
 
-Title: *Getting started with python on pegasus*
+Title: Getting started with python on pegasus
 
 Summary:
 

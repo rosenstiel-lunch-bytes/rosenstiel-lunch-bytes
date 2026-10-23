@@ -1,6 +1,6 @@
 **Speaker**: Manish Devana (OCE)
 
-**Title**: *Overleaf Tutorial: An online LaTeX editor for writing your next paper*
+**Title**: Overleaf Tutorial: An online LaTeX editor for writing your next paper
 
 **Abstract**: 
 We will explore the online LaTeX editor Overleaf and how to use it for academic writing. 

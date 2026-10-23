@@ -2,7 +2,7 @@
 
 **Speaker**: Yu Gao (RSMAS/UM)
 
-**Title**: *Data analysis with Pandas Dataframe: Live coding for beginners*
+**Title**: Data analysis with Pandas Dataframe: Live coding for beginners
 
 **Abstract**:
 This seminar is a beginner’s guide to data analysis with Pandas dataframe. Pandas is a

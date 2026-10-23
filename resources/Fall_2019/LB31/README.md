@@ -1,6 +1,6 @@
 **Speaker**: Brian Mapes (ATM)
 
-**Title**: *NASA's data services: Better and better*
+**Title**: NASA's data services: Better and better
 
 **Abstract**: 
 I will remind you about NASA’s data services universe, and emphasize what’s new and upcoming. 

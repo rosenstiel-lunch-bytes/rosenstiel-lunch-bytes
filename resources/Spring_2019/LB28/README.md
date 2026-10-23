@@ -1,6 +1,6 @@
 **Speaker**: David Grossman (CG/UM)
 
-**Title**: *Parallel Computing in Python with Dask on Pegasus*
+**Title**: Parallel Computing in Python with Dask on Pegasus 
 
 [Slides](https://github.com/2gotgrossman/dask-rsmas-presentation)
 

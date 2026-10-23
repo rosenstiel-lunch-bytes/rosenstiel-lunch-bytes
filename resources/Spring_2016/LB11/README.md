@@ -1,6 +1,6 @@
 **Speaker**: Holly Perryman (RSMAS)
 
-**Title**: *Word Processors? Ain’t Nobody Got Time For That: An Introduction to LaTeX*
+**Title**: Word Processors? Ain’t Nobody Got Time For That: An Introduction to LaTeX
 
 **Where and when**: MSC 329, 12-1pm,  Wednesday, March 30, 2016
 

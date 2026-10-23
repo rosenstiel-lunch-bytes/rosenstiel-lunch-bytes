@@ -1,4 +1,4 @@
-Title: *Handling large data sets using Climate Data Operators (CDO)*
+Title: Handling large data sets using Climate Data Operators (CDO)
 
 Speaker: Dian Putrasahan (RSMAS)
 

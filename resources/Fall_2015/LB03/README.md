@@ -1,6 +1,6 @@
 Speaker: Leo Siqueira (RSMAS)
 
-Title: *Python bytes on spatial-temporal data. Basics and perspectives.*
+Title: Python bytes on spatial-temporal data. Basics and perspectives.
 
 Summary:
    *  Python language and object-oriented programming

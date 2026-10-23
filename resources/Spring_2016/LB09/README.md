@@ -1,6 +1,6 @@
 **Speaker**: Leo Siqueira (RSMAS)
 
-**Title**: *Save time and $make reproducible research with GNU Make*
+**Title**: Save time and $make reproducible research with GNU Make
 
 **Where and when**: MSC 329, 12-1pm,  Wednesday, March 2, 2016
 

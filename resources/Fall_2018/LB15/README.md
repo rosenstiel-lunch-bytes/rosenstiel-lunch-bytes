@@ -1,6 +1,6 @@
 **Speaker**: Suvarchal Kumar (RSMAS)
 
-**Title**: *Hosting and managing your geophysical datasets*
+**Title**: Hosting and managing your geophysical datasets
 
 **Abstract**: Wish you had an efficient content management system 
 for your earth-science data? Then you might be interested in RAMADDA, 

@@ -1,7 +1,7 @@
 Speakers: Macarena Ortiz and Juan Pinales (RSMAS)
 
-Title: *Machine learning methods for satellite image processing: Neural 
-Networks and Support Vector Machines*
+Title: Machine learning methods for satellite image processing: Neural 
+Networks and Support Vector Machines
 
 Summary:
 * The Problem of Pattern Recognition

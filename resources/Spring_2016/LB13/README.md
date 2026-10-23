@@ -1,6 +1,6 @@
 **Speaker**: Ajda Savarin (RSMAS)
 
-**Title**: *Building websites using HTML, CSS, and Bootstrap*
+**Title**: Building websites using HTML, CSS, and Bootstrap
 
 **Where and when**: MSC 329, 12-1pm,  Wednesday, May 4, 2016
 

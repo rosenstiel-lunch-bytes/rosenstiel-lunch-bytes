@@ -1,6 +1,6 @@
 Speaker: Johnna Infanti (RSMAS)
 
-Title: *Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)*
+Title: Introduction and Tutorial on NASA GISS Panoply and the Grid Analysis and Display System (GrADS)
 
 Summary:
 A large amount of Earth science data is in NetCDF format, and free tools such as NASA GISS Panoply and the Grid Analysis and Display System (GrADS) allow easy access, manipulation, and visualization of your data.

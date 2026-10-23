@@ -1,6 +1,6 @@
 **Speaker**: Milan Curcic (RSMAS/UM)
 
-**Title**: *Introduction to Cloud Computing*
+**Title**: Introduction to Cloud Computing
 
 **Abstract**: 
 Cloud computing allows you to access compute resources on demand. 

@@ -1,6 +1,6 @@
 **Speaker**: Eleanor Middlemas (RSMAS)
 
-**Title**: *STARSHIP MATLAB - It's not as scary as you think*
+**Title**: STARSHIP MATLAB - It's not as scary as you think
 
 **Where and when**: MSC 329, 12-1pm, Wednesday, February 17, 2016
 

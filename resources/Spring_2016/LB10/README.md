@@ -1,6 +1,6 @@
 **Speaker**: Josh Noe (Mixed in Key Inc.)
 
-**Title**: *From whaaa?? to ohhhh: Writing maintainable code.*
+**Title**: From whaaa?? to ohhhh: Writing maintainable code.
 
 **Where and when**: MSC 329, 12-1pm,  Wednesday, March 16, 2016
 

@@ -1,6 +1,6 @@
 **Speaker**: Patrick Rynne (Waterlust)
 
-**Title**: *What I've learned from Waterlust: Launching your passion project while in graduate school and turning it into a career...hopefully*
+**Title**: What I've learned from Waterlust: Launching your passion project while in graduate school and turning it into a career...hopefully
 
 **Abstract**: Graduate school offers students a unique period of time to develop 
 “passion projects” that are related to their research. Despite academic commitments 

@@ -1,6 +1,6 @@
 **Speaker**: Joseph Anderson (RSMAS/UM)
 
-**Title**: *Neural Networks and TensorFlow: A Gentle Introduction*
+**Title**: Neural Networks and TensorFlow: A Gentle Introduction
 
 **Abstract**: This seminar will provide an introduction to the basics 
 of both TensorFlow and neural networks in general. Much of the mathematics 

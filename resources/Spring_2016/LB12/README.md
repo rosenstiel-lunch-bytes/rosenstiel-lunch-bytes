@@ -1,6 +1,6 @@
 **Speaker**: Andrew Smith (RSMAS)
 
-**Title**: *Because it happens on Earth: An Introduction to plotting and mapping for geophysical applications in Python*
+**Title**: Because it happens on Earth: An Introduction to plotting and mapping for geophysical applications in Python
 
 **Where and when**: MSC 329, 12-1pm,  Wednesday, April 6, 2016
 
