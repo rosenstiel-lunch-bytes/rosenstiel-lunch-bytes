@@ -11,7 +11,16 @@ various computing topics, tools, and programming languages.
 
 MSC 343, Fridays at 12 pm.
 
-## Organizers
+### This Semester (Fall 2026)
+
+- Nov 20, 2026. TBD
+- Nov 13, 2026. TBD
+- Nov 6, 2026. TBD
+- Oct 23, 2026. Michael Fischer. *From Prompt to Page: Using the Claude Desktop App and Artifacts in Research*. [Abstract and materials](resources/Fall_2026/LB44)
+- Oct 16, 2026. Juan Carlos Villaseñor-Derbez. *My (shallow) experience with agentic coding*. [Abstract and materials](resources/Fall_2026/LB43)
+- Sept 25, 2026. Milan Curcic. *State of AI for Research*. [Abstract and materials](resources/Fall_2026/LB42)
+
+### 2026 Organizers
 
 - Marybeth Arcodia (ATM & IDSC)
 - Milan Curcic (OCE & IDSC)
@@ -19,13 +28,18 @@ MSC 343, Fridays at 12 pm.
 - Tim Norris (UM Libraries & IDSC)
 - Juan Carlos Villaseñor-Derbez (EVR & IDSC)
 
-## Sessions
+## Contributing
 
-### Fall 2026
+To share materials for a seminar, add a folder under `resources/<Season>/` (e.g. `resources/Fall_2026/my-talk`) with a README
+(speaker, title, abstract, when, where) plus your slides (PDFs can be read on GitHub), code, or environment files, and link to it from the session entry above.
 
-- Oct 23, 2026. Michael Fischer. *From Prompt to Page: Using the Claude Desktop App and Artifacts in Research*. [Abstract and materials](resources/Fall_2026/LB44)
-- Oct 16, 2026. Juan Carlos Villaseñor-Derbez. *My (shallow) experience with agentic coding*. [Abstract and materials](resources/Fall_2026/LB43)
-- Sept 25, 2026. Milan Curcic. *State of AI for Research*. [Abstract and materials](resources/Fall_2026/LB42)
+## Presenter guidelines
+
+* Any format welcome! Slides, live coding, whiteboard, or just your voice.
+* 45 minutes or shorter.
+* Feel free to ask us for feedback!
+
+## Past Sessions
 
 ### Spring 2026
 
@@ -87,17 +101,6 @@ MSC 343, Fridays at 12 pm.
 - Oct 28, 2015. Leo Siqueira. *Python bytes on spatial-temporal data: Basics and perspectives*. [Abstract and materials](resources/Fall_2015/LB03)
 - Oct 21, 2015. Dian Putrasahan. *Handling large data sets using Climate Data Operators (CDO)*. [Abstract and materials](resources/Fall_2015/LB02)
 - Oct 14, 2015. Natalie Perlin. *Introduction to UM Center for Computational Science (CCS) and Pegasus supercomputer*. [Abstract and materials](resources/Fall_2015/LB01)
-
-## Presenter guidelines
-
-* Any format welcome! Slides, live coding, whiteboard, or just your voice.
-* 45 minutes or shorter.
-* Feel free to ask us for feedback!
-
-## Contributing
-
-To share materials for a seminar, add a folder under `resources/<Season>/` (e.g. `resources/Fall_2026/my-talk`) with a README
-(speaker, title, abstract, when, where) plus your slides (PDFs can be read on GitHub), code, or environment files, and link to it from the session entry above.
 
 ## See also
 
