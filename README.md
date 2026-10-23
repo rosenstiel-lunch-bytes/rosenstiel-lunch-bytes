@@ -27,7 +27,7 @@ MSC 343, Fridays at 12 pm.
 
 - Jan 16, 2026. Milan Curcic. What every scientist should know about AI in 2026. [Abstract and materials](resources/Spring_2026/LB35)
 - Feb 13, 2026. Brian McNoldy. Plots and Pixels: Three Decades of Building and Sharing Science Products on the Web. [Abstract and materials](resources/Spring_2026/LB36)
-- Philippe Miron. Retrieval Augmented Generation
+- Feb 20, 2026. Philippe Miron. Retrieval-Augmented Generation. [Abstract and materials](resources/Spring_2026/LB37)
 - Mar 27, 2026. Susan Harrison. Python workflows using abstractions and Xarray. [Abstract and materials](resources/Spring_2026/LB38)
 - Apr 3, 2026. Marybeth Arcodia. PyTorch 101: A Practical Introduction for Earth Scientists. [Abstract and materials](resources/Spring_2026/LB39)
 - Apr 10, 2026. Michael Fischer. The vibes are immaculate, but is the research? A reflection on vibe coding for scientists. [Abstract and materials](resources/Spring_2026/LB40)
